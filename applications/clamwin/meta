@@ -1,0 +1,5 @@
+HOMEPAGE=www.clamwin.com/
+DOWNLOAD_URL=http://downloads.sourceforge.net/clamwin/clamwin-0.97.8-setup.exe
+VERSION=0.97.8
+EXECUTABLE_NAME=clamwin-0.97.8-setup.exe
+LINUX_NAME=clamwin

@@ -1,0 +1,10 @@
+==About clamwin [0.97.8]==
+ClamWin is a Free Antivirus program for Microsoft Windows 8/ 7 / Vista / XP / Me / 2000 / 98 and Windows Server 2012, 2008 and 2003.
+{{images/clamwin.png}}
+==Features==
+High detection rates for viruses and spyware
+Scanning Scheduler
+Standalone virus scanner and right-click menu integration to Microsoft Windows Explorer;
+Automatic downloads of regularly updated Virus Database.
+Addin to Microsoft Outlook to remove virus-infected attachments automatically.
+Please note that ClamWin Free Antivirus does not include an on-access real-time scanner. You need to manually scan a file in order to detect a virus or spyware.

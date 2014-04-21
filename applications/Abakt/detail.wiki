@@ -1,0 +1,8 @@
+==About Abakt [0.9.5]==
+About Abakt:
+{{images/}}
+==Features==
+Abakt is a free, open source, backup tool for Windows.
+Using a combination of advanced filters you can select files and directories to compress, copy or move
+Filters: You can select files by creating filters that are based on the properties of files. These file properties include: filename, directory, attributes, size, age and modification date.
+Backup: Create a standard PKZIP archive using the built-in Zip library. Or call the external command line tool 7-Zip to create compressed archives. You can also copy, move or delete the selected files.

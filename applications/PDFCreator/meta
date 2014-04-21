@@ -1,0 +1,5 @@
+HOMEPAGE=www.pdfforge.org
+DOWNLOAD_URL=http://download.pdfforge.org/download/pdfcreator/PDFCreator-stable?download
+VERSION=1.7.2
+EXECUTABLE_NAME=PDFCreator-1_7_2_setup.exe
+LINUX_NAME=PDFCreator

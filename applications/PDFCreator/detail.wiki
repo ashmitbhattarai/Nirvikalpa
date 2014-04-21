@@ -1,0 +1,8 @@
+==About PDFCreator [1.7.2]==
+In 2009 the Sourceforge Members Philip Chinery and Frank Heindörfer founded the company pdfforge GbR. This young company started around the well-known Sourceforge project PDFCreator and develops OpenSource and Freeware products around creating and modifying PDF documents. The focus lies on free software which can be installed, used and understood by everybody.
+{{images/pdfcreator.png}}
+==Features==
+The core product is PDFCreator, which allows creating PDF documents from virtually any application.
+It supports more than 30 languages and has many options to influence the result. Some advanced features are particularly interesting for companies. It supports server installation and can be controlled by other applications.
+Currently the team is growing in numbers. At the same time, we are developing new products. The new free PDFArchitect allows the user to view and modify PDF files.
+The large number of users and friends of this site as well as the positive comments in the forum and via mail motivates the team to continue to develop the software and improve the high quality standards.
